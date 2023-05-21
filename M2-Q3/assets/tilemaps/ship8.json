@@ -1,0 +1,14 @@
+{ "columns":55,
+ "image":"sheet.png",
+ "imageheight":620,
+ "imagewidth":1000,
+ "margin":0,
+ "name":"ship8",
+ "spacing":0,
+ "tilecount":1870,
+ "tiledversion":"1.10.1",
+ "tileheight":18,
+ "tilewidth":18,
+ "type":"tileset",
+ "version":"1.10"
+}
